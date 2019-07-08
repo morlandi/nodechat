@@ -17,6 +17,14 @@ Usage (in localhost)
 
 then open **frontend.html** in your browser
 
+Deployment in Production
+------------------------
+
+**TODO:**
+
+- prepare an ansible playbook for deployment
+- configure Nginx
+- configure Supervisor
 
 References
 ----------
