@@ -70,6 +70,8 @@ $(function () {
         } else {
             console.log('Hmm..., I\'ve never seen JSON like this: ', json);
         }
+
+        input.focus();
     };
 
     /**
